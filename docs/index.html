@@ -8,65 +8,70 @@
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.2/dist/chart.umd.min.js"></script>
 </head>
 <body>
-  <div class="app">
+<div class="app">
 
-    <!-- ── Header ── -->
-    <header class="header">
-      <div class="header-inner">
-        <div>
-          <h1>🔥 Trending Products</h1>
-          <p class="subtitle">Dropshipping Research Dashboard</p>
-        </div>
-        <div class="header-meta">
-          <div class="update-row">
-            <span class="label">Last updated:</span>
-            <span id="last-updated" class="highlight">Loading…</span>
-          </div>
-          <div class="source-row" id="source-statuses"></div>
-        </div>
+  <!-- ── Header ── -->
+  <header class="header">
+    <div class="header-inner">
+      <div>
+        <h1>🔥 Trending Products</h1>
+        <p class="subtitle">Dropshipping Research Dashboard</p>
       </div>
-    </header>
+      <div class="header-meta">
+        <div class="update-row">
+          <span class="label">Last updated:</span>
+          <span id="last-updated" class="highlight">Loading…</span>
+        </div>
+        <div class="source-row" id="source-statuses"></div>
+      </div>
+    </div>
+  </header>
 
-    <main class="container">
+  <main class="container">
 
-      <!-- ── Stats ── -->
-      <section class="stats-grid">
-        <div class="stat-card">
-          <div class="stat-number" id="stat-total">—</div>
-          <div class="stat-label">Trending Products</div>
-        </div>
-        <div class="stat-card">
-          <div class="stat-number" id="stat-sources">—</div>
-          <div class="stat-label">Active Sources</div>
-        </div>
-        <div class="stat-card">
-          <div class="stat-number" id="stat-multi">—</div>
-          <div class="stat-label">Multi-Source Hits</div>
-        </div>
-        <div class="stat-card">
-          <div class="stat-number" id="stat-top-cat">—</div>
-          <div class="stat-label">Top Category</div>
-        </div>
-      </section>
+    <!-- ── Stats ── -->
+    <section class="stats-grid">
+      <div class="stat-card">
+        <div class="stat-number" id="stat-total">—</div>
+        <div class="stat-label">Trending Products</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-number" id="stat-sources">—</div>
+        <div class="stat-label">Active Sources</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-number" id="stat-multi">—</div>
+        <div class="stat-label">Multi-Source Hits</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-number" id="stat-dropship">—</div>
+        <div class="stat-label">Dropship Products</div>
+      </div>
+    </section>
 
-      <!-- ── Charts ── -->
-      <section class="charts-grid">
-        <div class="chart-card">
-          <h3 class="chart-title">Products by Category</h3>
-          <div class="chart-wrap">
-            <canvas id="catChart"></canvas>
-          </div>
-        </div>
-        <div class="chart-card">
-          <h3 class="chart-title">Products by Source</h3>
-          <div class="chart-wrap chart-wrap--donut">
-            <canvas id="srcChart"></canvas>
-          </div>
-        </div>
-      </section>
+    <!-- ── Charts ── -->
+    <section class="charts-grid">
+      <div class="chart-card">
+        <h3 class="chart-title">Products by Category</h3>
+        <div class="chart-wrap"><canvas id="catChart"></canvas></div>
+      </div>
+      <div class="chart-card">
+        <h3 class="chart-title">Products by Source</h3>
+        <div class="chart-wrap chart-wrap--donut"><canvas id="srcChart"></canvas></div>
+      </div>
+    </section>
 
-      <!-- ── Filters ── -->
-      <section class="filters">
+    <!-- ══════════════════════════════════════════════
+         SECTION 1 — All Trending Products
+    ══════════════════════════════════════════════ -->
+    <section class="section-block">
+      <div class="section-header">
+        <h2 class="section-title">📈 All Trending Products</h2>
+        <p class="section-sub">Aggregated from Amazon, eBay, AliExpress, Google Trends & Reddit</p>
+      </div>
+
+      <!-- Filters -->
+      <div class="filters">
         <div class="filter-row">
           <input id="q" type="search" placeholder="Search products…" class="input-search" />
           <select id="fCat" class="input-select">
@@ -87,21 +92,46 @@
             <option value="price_desc">Sort: Price ↓</option>
           </select>
         </div>
-        <div class="filter-count">
-          Showing <strong id="result-count">0</strong> products
+        <div class="filter-count">Showing <strong id="result-count">0</strong> products</div>
+      </div>
+
+      <div class="products-grid" id="grid">
+        <div class="state-msg">Loading trending products…<span class="spinner"></span></div>
+      </div>
+    </section>
+
+    <!-- ══════════════════════════════════════════════
+         SECTION 2 — Dropshipping Products
+    ══════════════════════════════════════════════ -->
+    <section class="section-block dropship-section">
+      <div class="section-header">
+        <h2 class="section-title">🛒 Dropshipping Products</h2>
+        <p class="section-sub">
+          Products trending in dropshipping communities — with direct supplier links so you can source them instantly
+        </p>
+      </div>
+
+      <!-- Dropship filters -->
+      <div class="filters">
+        <div class="filter-row">
+          <input id="dq" type="search" placeholder="Search dropship products…" class="input-search" />
+          <select id="dfSort" class="input-select">
+            <option value="score">Sort: Trend Score</option>
+            <option value="price_asc">Sort: Price ↑</option>
+            <option value="price_desc">Sort: Price ↓</option>
+          </select>
         </div>
-      </section>
+        <div class="filter-count">Showing <strong id="dropship-count">0</strong> products</div>
+      </div>
 
-      <!-- ── Product Grid ── -->
-      <section class="products-section">
-        <div class="products-grid" id="grid">
-          <div class="state-msg">Loading trending products…<span class="spinner"></span></div>
-        </div>
-      </section>
+      <div class="products-grid" id="dropship-grid">
+        <div class="state-msg">Loading dropshipping products…<span class="spinner"></span></div>
+      </div>
+    </section>
 
-    </main>
-  </div>
+  </main>
+</div>
 
-  <script src="app.js"></script>
+<script src="app.js"></script>
 </body>
 </html>

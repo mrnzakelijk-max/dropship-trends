@@ -11,6 +11,7 @@ import re
 from datetime import datetime
 from pathlib import Path
 from difflib import SequenceMatcher
+from urllib.parse import quote
 
 # Make sure local imports work when run from any directory
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -20,6 +21,7 @@ from sources.ebay import get_trending_products as get_ebay
 from sources.aliexpress import get_trending_products as get_aliexpress
 from sources.google_trends import get_trending_searches as get_google
 from sources.reddit import get_trending_products as get_reddit
+from sources.dropshipping import get_dropship_products as get_dropship
 
 
 def normalize(name: str) -> str:
@@ -32,13 +34,34 @@ def name_similarity(a: str, b: str) -> float:
     return SequenceMatcher(None, normalize(a), normalize(b)).ratio()
 
 
+def build_supplier_url(product: dict) -> str:
+    """
+    Return the best supplier (source/buy) URL for a product.
+    - AliExpress products: the product URL itself IS the supplier link.
+    - Everything else: build an AliExpress search URL from the product name.
+    """
+    sources = product.get("sources") or [product.get("source", "")]
+
+    # If the product already has an explicit supplier_url, keep it
+    if product.get("supplier_url"):
+        return product["supplier_url"]
+
+    # AliExpress URL is the supplier link
+    if "AliExpress" in sources and product.get("url"):
+        return product["url"]
+
+    # Fall back to AliExpress search
+    name = product.get("name", "")[:80]
+    return f"https://www.aliexpress.com/wholesale?SearchText={quote(name)}&SortType=total_tranSqfm_desc"
+
+
 def merge_products(raw: list) -> list:
     """
     Deduplicate products from different sources.
     Products with >75% name similarity are merged; their scores are summed
     and all source names are collected.
     """
-    merged = []  # list of dicts
+    merged = []
 
     for product in raw:
         best_match_idx = None
@@ -52,22 +75,23 @@ def merge_products(raw: list) -> list:
 
         if best_ratio >= 0.75 and best_match_idx is not None:
             existing = merged[best_match_idx]
-            # Accumulate sources
             if product["source"] not in existing["sources"]:
                 existing["sources"].append(product["source"])
-            # Boost score for cross-platform appearance
             existing["score"] += product["score"]
-            # Prefer real prices and images over placeholders
             if existing["price"] == "N/A" and product["price"] != "N/A":
                 existing["price"] = product["price"]
             if not existing.get("image") and product.get("image"):
                 existing["image"] = product["image"]
+            # Prefer a real supplier_url if we get one during merge
+            if not existing.get("supplier_url") and product.get("supplier_url"):
+                existing["supplier_url"] = product["supplier_url"]
+            if product.get("is_dropship"):
+                existing["is_dropship"] = True
         else:
             entry = dict(product)
             entry["sources"] = [product["source"]]
             merged.append(entry)
 
-    # Sort by score descending
     merged.sort(key=lambda x: x["score"], reverse=True)
     return merged
 
@@ -76,11 +100,12 @@ def run():
     print(f"=== Dropship Trends Scraper — {datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')} ===\n")
 
     scrapers = [
-        ("amazon", get_amazon),
-        ("ebay", get_ebay),
-        ("aliexpress", get_aliexpress),
-        ("google_trends", get_google),
-        ("reddit", get_reddit),
+        ("amazon",       get_amazon),
+        ("ebay",         get_ebay),
+        ("aliexpress",   get_aliexpress),
+        ("google_trends",get_google),
+        ("reddit",       get_reddit),
+        ("dropshipping", get_dropship),
     ]
 
     all_products = []
@@ -96,20 +121,23 @@ def run():
             print(f"  FAILED: {e}")
             source_stats[source_name] = {"status": "error", "count": 0, "error": str(e)}
 
-    print(f"\n--- Raw total: {len(all_products)} products across all sources ---")
+    print(f"\n--- Raw total: {len(all_products)} products ---")
 
     merged = merge_products(all_products)
     print(f"--- After deduplication: {len(merged)} unique products ---")
 
-    # Assign final rank
+    # Enrich every product with a supplier URL and rank
     for i, p in enumerate(merged):
         p["rank"] = i + 1
+        p["supplier_url"] = build_supplier_url(p)
+        if "is_dropship" not in p:
+            p["is_dropship"] = "AliExpress" in (p.get("sources") or [])
 
     output = {
         "last_updated": datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ"),
         "total_products": len(merged),
         "sources": source_stats,
-        "products": merged[:300],  # publish top 300
+        "products": merged[:300],
     }
 
     out_path = Path(__file__).parent.parent / "docs" / "data.json"
