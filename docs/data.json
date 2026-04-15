@@ -1,0 +1,12 @@
+{
+  "last_updated": "2026-04-15T00:00:00Z",
+  "total_products": 0,
+  "sources": {
+    "amazon":       { "status": "pending", "count": 0 },
+    "ebay":         { "status": "pending", "count": 0 },
+    "aliexpress":   { "status": "pending", "count": 0 },
+    "google_trends":{ "status": "pending", "count": 0 },
+    "reddit":       { "status": "pending", "count": 0 }
+  },
+  "products": []
+}
