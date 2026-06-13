@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-13T08:51:10Z",
+  "last_updated": "2026-06-13T19:09:50Z",
   "total_products": 38,
   "sources": {
     "amazon": {
@@ -29,21 +29,39 @@
   },
   "products": [
     {
-      "id": "ebay_trending_4",
+      "id": "ebay_trending_3",
       "name": "Apple iPhone 14 256GB Unlocked 6.1\" - (Midnight) A2649 w/1 Year Warranty",
       "price": "$332.60See all trending deals",
       "image": "https://i.ebayimg.com/images/g/oEcAAOSw1SpngXET/s-l300.jpg",
       "url": "https://www.ebay.com/itm/375917114160?_trkparms=5373%3A0%7C5374%3AFeatured",
       "source": "eBay",
       "category": "Trending",
-      "position": 5,
+      "position": 4,
       "rank_change": "",
-      "score": 204,
+      "score": 252,
       "sources": [
         "eBay"
       ],
       "rank": 1,
       "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=Apple%20iPhone%2014%20256GB%20Unlocked%206.1%22%20-%20%28Midnight%29%20A2649%20w/1%20Year%20Warranty&SortType=total_tranSqfm_desc",
+      "is_dropship": false
+    },
+    {
+      "id": "ebay_trending_5",
+      "name": "Apple Watch Series 11 Cellular 46mm Aluminum 90%+ w/White Band (Rose) Warranty",
+      "price": "$317.35See all trending deals",
+      "image": "https://i.ebayimg.com/images/g/qi0AAeSw--9p4SCg/s-l300.jpg",
+      "url": "https://www.ebay.com/itm/377118821980?_trkparms=5373%3A0%7C5374%3AFeatured",
+      "source": "eBay",
+      "category": "Trending",
+      "position": 6,
+      "rank_change": "",
+      "score": 228,
+      "sources": [
+        "eBay"
+      ],
+      "rank": 2,
+      "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=Apple%20Watch%20Series%2011%20Cellular%2046mm%20Aluminum%2090%25%2B%20w/White%20Band%20%28Rose%29%20Warranty&SortType=total_tranSqfm_desc",
       "is_dropship": false
     },
     {
@@ -60,26 +78,8 @@
       "sources": [
         "eBay"
       ],
-      "rank": 2,
-      "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=Logitech%20G29%20Driving%20Force%20Race%20Wheel%20%28941-000110%29&SortType=total_tranSqfm_desc",
-      "is_dropship": false
-    },
-    {
-      "id": "ebay_trending_7",
-      "name": "Apple Watch Series 11 Cellular 46mm Aluminum 90%+ w/White Band (Rose) Warranty",
-      "price": "$317.35See all trending deals",
-      "image": "https://ir.ebaystatic.com/pictures/aw/pics/s_1x2.gif",
-      "url": "https://www.ebay.com/itm/377118821980?_trkparms=5373%3A0%7C5374%3AFeatured",
-      "source": "eBay",
-      "category": "Trending",
-      "position": 8,
-      "rank_change": "",
-      "score": 180,
-      "sources": [
-        "eBay"
-      ],
       "rank": 3,
-      "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=Apple%20Watch%20Series%2011%20Cellular%2046mm%20Aluminum%2090%25%2B%20w/White%20Band%20%28Rose%29%20Warranty&SortType=total_tranSqfm_desc",
+      "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=Logitech%20G29%20Driving%20Force%20Race%20Wheel%20%28941-000110%29&SortType=total_tranSqfm_desc",
       "is_dropship": false
     },
     {
@@ -102,10 +102,10 @@
     },
     {
       "id": "ebay_trending_2",
-      "name": "Google Pixel Watch 4 (GPS LTE) Black Stainless Steel 45mm Matte Black Sport Good",
-      "price": "$269.00See all trending deals",
-      "image": "https://i.ebayimg.com/images/g/uY4AAeSwZIpqKYLl/s-l300.jpg",
-      "url": "https://www.ebay.com/itm/127914670677?_trkparms=5373%3A0%7C5374%3AFeatured",
+      "name": "Valve Steam Deck 7\" Handheld Console 256GB LCD SteamOS Model 1010 • Good Cond.",
+      "price": "$584.97See all trending deals",
+      "image": "https://i.ebayimg.com/images/g/DHcAAeSw1ldp1UAk/s-l300.jpg",
+      "url": "https://www.ebay.com/itm/298388125714?_trkparms=5373%3A0%7C5374%3AFeatured",
       "source": "eBay",
       "category": "Trending",
       "position": 3,
@@ -115,60 +115,24 @@
         "eBay"
       ],
       "rank": 5,
-      "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=Google%20Pixel%20Watch%204%20%28GPS%20LTE%29%20Black%20Stainless%20Steel%2045mm%20Matte%20Black%20Sport%20Good&SortType=total_tranSqfm_desc",
-      "is_dropship": false
-    },
-    {
-      "id": "ebay_trending_3",
-      "name": "Valve Steam Deck 7\" Handheld Console 256GB LCD SteamOS Model 1010 • Good Cond.",
-      "price": "$584.97See all trending deals",
-      "image": "https://i.ebayimg.com/images/g/DHcAAeSw1ldp1UAk/s-l300.jpg",
-      "url": "https://www.ebay.com/itm/298388125714?_trkparms=5373%3A0%7C5374%3AFeatured",
-      "source": "eBay",
-      "category": "Trending",
-      "position": 4,
-      "rank_change": "",
-      "score": 144,
-      "sources": [
-        "eBay"
-      ],
-      "rank": 6,
       "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=Valve%20Steam%20Deck%207%22%20Handheld%20Console%20256GB%20LCD%20SteamOS%20Model%201010%20%E2%80%A2%20Good%20Cond.&SortType=total_tranSqfm_desc",
       "is_dropship": false
     },
     {
-      "id": "ebay_trending_5",
-      "name": "Apple iPad Pro 11\" 2nd Gen 128GB 2020 Wi-Fi Only MY232LL/A Space Gray Very Good",
-      "price": "$305.97See all trending deals",
-      "image": "https://i.ebayimg.com/images/g/NdEAAeSwcVtqGKAC/s-l300.jpg",
-      "url": "https://www.ebay.com/itm/298362891027?_trkparms=5373%3A0%7C5374%3AFeatured",
-      "source": "eBay",
-      "category": "Trending",
-      "position": 6,
-      "rank_change": "",
-      "score": 120,
-      "sources": [
-        "eBay"
-      ],
-      "rank": 7,
-      "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=Apple%20iPad%20Pro%2011%22%202nd%20Gen%20128GB%202020%20Wi-Fi%20Only%20MY232LL/A%20Space%20Gray%20Very%20Good&SortType=total_tranSqfm_desc",
-      "is_dropship": false
-    },
-    {
-      "id": "ebay_trending_6",
+      "id": "ebay_trending_4",
       "name": "Lot of 4 Micron 16GB 2Rx8 PC4 DDR4-2666 ECC RDIMM MTA18ASF2G72PDZ-2G6E1QI Good",
       "price": "$69.00See all trending deals",
-      "image": "https://ir.ebaystatic.com/pictures/aw/pics/s_1x2.gif",
+      "image": "https://i.ebayimg.com/images/g/xCAAAeSw0Q9qKv7q/s-l300.jpg",
       "url": "https://www.ebay.com/itm/298406462501?_trkparms=5373%3A0%7C5374%3AFeatured",
       "source": "eBay",
       "category": "Trending",
-      "position": 7,
+      "position": 5,
       "rank_change": "",
-      "score": 108,
+      "score": 132,
       "sources": [
         "eBay"
       ],
-      "rank": 8,
+      "rank": 6,
       "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=Lot%20of%204%20Micron%2016GB%202Rx8%20PC4%20DDR4-2666%20ECC%20RDIMM%20MTA18ASF2G72PDZ-2G6E1QI%20Good&SortType=total_tranSqfm_desc",
       "is_dropship": false
     },
@@ -186,16 +150,52 @@
       "sources": [
         "eBay"
       ],
-      "rank": 9,
+      "rank": 7,
       "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=EcoFlow%20DELTA%20Pro%20Ultra%206kWh%20Power%20Station%20LiFePO4%20Battery%20Certified%20Refurbished&SortType=total_tranSqfm_desc",
       "is_dropship": false
     },
     {
-      "id": "ebay_trending_9",
+      "id": "ebay_trending_7",
       "name": "Apple iPhone 16 Plus 128GB Unlocked 90%+ Battery (Ultramarine) A3082 w/Warranty",
       "price": "$628.03See all trending deals",
       "image": "https://ir.ebaystatic.com/pictures/aw/pics/s_1x2.gif",
       "url": "https://www.ebay.com/itm/147109208142?_trkparms=5373%3A0%7C5374%3AFeatured",
+      "source": "eBay",
+      "category": "Trending",
+      "position": 8,
+      "rank_change": "",
+      "score": 96,
+      "sources": [
+        "eBay"
+      ],
+      "rank": 8,
+      "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=Apple%20iPhone%2016%20Plus%20128GB%20Unlocked%2090%25%2B%20Battery%20%28Ultramarine%29%20A3082%20w/Warranty&SortType=total_tranSqfm_desc",
+      "is_dropship": false
+    },
+    {
+      "id": "ebay_trending_8",
+      "name": "Apple MacBook Pro 14\" M5 Pro 16-Core GPU A3426 24GB RAM 1TB SSD Silver 2026 VG",
+      "price": "$1,719.00See all trending deals",
+      "image": "https://ir.ebaystatic.com/pictures/aw/pics/s_1x2.gif",
+      "url": "https://www.ebay.com/itm/298387620739?_trkparms=5373%3A0%7C5374%3AFeatured",
+      "source": "eBay",
+      "category": "Trending",
+      "position": 9,
+      "rank_change": "",
+      "score": 84,
+      "sources": [
+        "eBay"
+      ],
+      "rank": 9,
+      "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=Apple%20MacBook%20Pro%2014%22%20M5%20Pro%2016-Core%20GPU%20A3426%2024GB%20RAM%201TB%20SSD%20Silver%202026%20VG&SortType=total_tranSqfm_desc",
+      "is_dropship": false
+    },
+    {
+      "id": "ebay_trending_9",
+      "name": "2022 Apple M2 MacBook Air 13.6\" 8GB/256GB SSD (Silver) A2681 - w/Year Warranty",
+      "price": "$567.87See all trending deals",
+      "image": "https://ir.ebaystatic.com/pictures/aw/pics/s_1x2.gif",
+      "url": "https://www.ebay.com/itm/377131636118?_trkparms=5373%3A0%7C5374%3AFeatured",
       "source": "eBay",
       "category": "Trending",
       "position": 10,
@@ -205,25 +205,7 @@
         "eBay"
       ],
       "rank": 10,
-      "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=Apple%20iPhone%2016%20Plus%20128GB%20Unlocked%2090%25%2B%20Battery%20%28Ultramarine%29%20A3082%20w/Warranty&SortType=total_tranSqfm_desc",
-      "is_dropship": false
-    },
-    {
-      "id": "ebay_trending_10",
-      "name": "Apple MacBook Pro 14\" M5 Pro 16-Core GPU A3426 24GB RAM 1TB SSD Silver 2026 VG",
-      "price": "$1,719.00See all trending deals",
-      "image": "https://ir.ebaystatic.com/pictures/aw/pics/s_1x2.gif",
-      "url": "https://www.ebay.com/itm/298387620739?_trkparms=5373%3A0%7C5374%3AFeatured",
-      "source": "eBay",
-      "category": "Trending",
-      "position": 11,
-      "rank_change": "",
-      "score": 60,
-      "sources": [
-        "eBay"
-      ],
-      "rank": 11,
-      "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=Apple%20MacBook%20Pro%2014%22%20M5%20Pro%2016-Core%20GPU%20A3426%2024GB%20RAM%201TB%20SSD%20Silver%202026%20VG&SortType=total_tranSqfm_desc",
+      "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=2022%20Apple%20M2%20MacBook%20Air%2013.6%22%208GB/256GB%20SSD%20%28Silver%29%20A2681%20-%20w/Year%20Warranty&SortType=total_tranSqfm_desc",
       "is_dropship": false
     },
     {
@@ -240,7 +222,7 @@
       "sources": [
         "eBay"
       ],
-      "rank": 12,
+      "rank": 11,
       "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=US%20American%20Flag%20Heavy%20Duty%20Luxury%20Embroidered%20Stars%20Sewn%20Stripes%20Grommets%20Nylon&SortType=total_tranSqfm_desc",
       "is_dropship": false
     },
@@ -258,7 +240,7 @@
       "sources": [
         "eBay"
       ],
-      "rank": 13,
+      "rank": 12,
       "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=adidas%20men%20Run%2060s%202.0%20Shoes&SortType=total_tranSqfm_desc",
       "is_dropship": false
     },
@@ -276,7 +258,7 @@
       "sources": [
         "eBay"
       ],
-      "rank": 14,
+      "rank": 13,
       "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=Alexander%20McQueen%20Womens%20Small%20Skull%20Crossbody%20Bag&SortType=total_tranSqfm_desc",
       "is_dropship": false
     },
@@ -294,7 +276,7 @@
       "sources": [
         "eBay"
       ],
-      "rank": 15,
+      "rank": 14,
       "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=EcoFlow%20SG3000%20Smart%20Dual%20Fuel%20LPG%E4%B8%A8Gas%20Generator%20Powered%20for%20Emergencies/Outdoor&SortType=total_tranSqfm_desc",
       "is_dropship": false
     },
@@ -312,7 +294,7 @@
       "sources": [
         "eBay"
       ],
-      "rank": 16,
+      "rank": 15,
       "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=EcoFlow%20DELTA%20Pro%203%204000Wh%20LFP%20Portable%20Power%20Station%20Certified%20Refurbished&SortType=total_tranSqfm_desc",
       "is_dropship": false
     },
@@ -330,26 +312,8 @@
       "sources": [
         "eBay"
       ],
-      "rank": 17,
+      "rank": 16,
       "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=Bulova%20Men%27s%20Sport%20Chronograph%20Gray%20Stainless%20Steel%20Quartz%20Watch%2042MM%2098B434&SortType=total_tranSqfm_desc",
-      "is_dropship": false
-    },
-    {
-      "id": "ebay_trending_11",
-      "name": "2022 Apple M2 MacBook Air 13.6\" 8GB/256GB SSD (Silver) A2681 - w/Year Warranty",
-      "price": "$567.87See all trending deals",
-      "image": "https://ir.ebaystatic.com/pictures/aw/pics/s_1x2.gif",
-      "url": "https://www.ebay.com/itm/377131636118?_trkparms=5373%3A0%7C5374%3AFeatured",
-      "source": "eBay",
-      "category": "Trending",
-      "position": 12,
-      "rank_change": "",
-      "score": 48,
-      "sources": [
-        "eBay"
-      ],
-      "rank": 18,
-      "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=2022%20Apple%20M2%20MacBook%20Air%2013.6%22%208GB/256GB%20SSD%20%28Silver%29%20A2681%20-%20w/Year%20Warranty&SortType=total_tranSqfm_desc",
       "is_dropship": false
     },
     {
@@ -366,7 +330,7 @@
       "sources": [
         "eBay"
       ],
-      "rank": 19,
+      "rank": 17,
       "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=EcoFlow%20298Wh%20Plug-in%20Battery%20for%20GLACIER%20Refrigerator%2C%20Used&SortType=total_tranSqfm_desc",
       "is_dropship": false
     },
@@ -384,7 +348,7 @@
       "sources": [
         "eBay"
       ],
-      "rank": 20,
+      "rank": 18,
       "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=Light%20Blue%20by%20Dolce%20%26%20Gabbana%20for%20women%20EDT%200.84%20oz%20New%20in%20Box&SortType=total_tranSqfm_desc",
       "is_dropship": false
     },
@@ -402,7 +366,7 @@
       "sources": [
         "eBay"
       ],
-      "rank": 21,
+      "rank": 19,
       "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=EcoFlow%20Wave%203%20Portable%20Air%20Conditioner%20%26%20Wave%203%20Add-On%20Battery%20for%20Camping/RV&SortType=total_tranSqfm_desc",
       "is_dropship": false
     },
@@ -420,7 +384,7 @@
       "sources": [
         "eBay"
       ],
-      "rank": 22,
+      "rank": 20,
       "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=Bottega%20Veneta%20Nappa%20Leather%20Bucket%20Bag&SortType=total_tranSqfm_desc",
       "is_dropship": false
     },
@@ -438,7 +402,7 @@
       "sources": [
         "eBay"
       ],
-      "rank": 23,
+      "rank": 21,
       "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=EcoFlow%20400W%20Solar%20Panel%20Kit%20Self-supporting%20Waterproof%20Certified%20Refurbished&SortType=total_tranSqfm_desc",
       "is_dropship": false
     },
@@ -456,8 +420,44 @@
       "sources": [
         "eBay"
       ],
-      "rank": 24,
+      "rank": 22,
       "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=Men%27s%20Nike%20Athletic%20Gym%20Club%20Muscle%20Sweat%20Shorts%20Joggers%20New%20With%20Tags&SortType=total_tranSqfm_desc",
+      "is_dropship": false
+    },
+    {
+      "id": "ebay_trending_12",
+      "name": "2022 Apple iPad Pro 6 256GB WiFi/Cellular 12.9\" - (Space Gray) A2764 w/Warranty",
+      "price": "$520.24See all trending deals",
+      "image": "https://ir.ebaystatic.com/pictures/aw/pics/s_1x2.gif",
+      "url": "https://www.ebay.com/itm/376730683299?_trkparms=5373%3A0%7C5374%3AFeatured",
+      "source": "eBay",
+      "category": "Trending",
+      "position": 13,
+      "rank_change": "",
+      "score": 36,
+      "sources": [
+        "eBay"
+      ],
+      "rank": 23,
+      "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=2022%20Apple%20iPad%20Pro%206%20256GB%20WiFi/Cellular%2012.9%22%20-%20%28Space%20Gray%29%20A2764%20w/Warranty&SortType=total_tranSqfm_desc",
+      "is_dropship": false
+    },
+    {
+      "id": "ebay_trending_13",
+      "name": "2023 Apple M2 Max MacBook Pro 16.2\" 32GB/1TB SSD - (Space Gray) A2780 w/Warranty",
+      "price": "$1,610.22See all trending deals",
+      "image": "https://ir.ebaystatic.com/pictures/aw/pics/s_1x2.gif",
+      "url": "https://www.ebay.com/itm/147103056166?_trkparms=5373%3A0%7C5374%3AFeatured",
+      "source": "eBay",
+      "category": "Trending",
+      "position": 14,
+      "rank_change": "",
+      "score": 36,
+      "sources": [
+        "eBay"
+      ],
+      "rank": 24,
+      "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=2023%20Apple%20M2%20Max%20MacBook%20Pro%2016.2%22%2032GB/1TB%20SSD%20-%20%28Space%20Gray%29%20A2780%20w/Warranty&SortType=total_tranSqfm_desc",
       "is_dropship": false
     },
     {
