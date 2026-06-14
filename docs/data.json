@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-13T19:09:50Z",
+  "last_updated": "2026-06-14T09:23:21Z",
   "total_products": 38,
   "sources": {
     "amazon": {
@@ -38,7 +38,7 @@
       "category": "Trending",
       "position": 4,
       "rank_change": "",
-      "score": 252,
+      "score": 276,
       "sources": [
         "eBay"
       ],
@@ -174,10 +174,10 @@
     },
     {
       "id": "ebay_trending_8",
-      "name": "Apple MacBook Pro 14\" M5 Pro 16-Core GPU A3426 24GB RAM 1TB SSD Silver 2026 VG",
-      "price": "$1,719.00See all trending deals",
+      "name": "2022 Apple M2 MacBook Air 13.6\" 8GB/256GB SSD (Silver) A2681 - w/Year Warranty",
+      "price": "$567.87See all trending deals",
       "image": "https://ir.ebaystatic.com/pictures/aw/pics/s_1x2.gif",
-      "url": "https://www.ebay.com/itm/298387620739?_trkparms=5373%3A0%7C5374%3AFeatured",
+      "url": "https://www.ebay.com/itm/377131636118?_trkparms=5373%3A0%7C5374%3AFeatured",
       "source": "eBay",
       "category": "Trending",
       "position": 9,
@@ -187,25 +187,25 @@
         "eBay"
       ],
       "rank": 9,
-      "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=Apple%20MacBook%20Pro%2014%22%20M5%20Pro%2016-Core%20GPU%20A3426%2024GB%20RAM%201TB%20SSD%20Silver%202026%20VG&SortType=total_tranSqfm_desc",
+      "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=2022%20Apple%20M2%20MacBook%20Air%2013.6%22%208GB/256GB%20SSD%20%28Silver%29%20A2681%20-%20w/Year%20Warranty&SortType=total_tranSqfm_desc",
       "is_dropship": false
     },
     {
-      "id": "ebay_trending_9",
-      "name": "2022 Apple M2 MacBook Air 13.6\" 8GB/256GB SSD (Silver) A2681 - w/Year Warranty",
-      "price": "$567.87See all trending deals",
+      "id": "ebay_trending_12",
+      "name": "2023 Apple M2 Max MacBook Pro 16.2\" 32GB/1TB SSD - (Space Gray) A2780 w/Warranty",
+      "price": "$1,610.22See all trending deals",
       "image": "https://ir.ebaystatic.com/pictures/aw/pics/s_1x2.gif",
-      "url": "https://www.ebay.com/itm/377131636118?_trkparms=5373%3A0%7C5374%3AFeatured",
+      "url": "https://www.ebay.com/itm/147103056166?_trkparms=5373%3A0%7C5374%3AFeatured",
       "source": "eBay",
       "category": "Trending",
-      "position": 10,
+      "position": 13,
       "rank_change": "",
-      "score": 72,
+      "score": 60,
       "sources": [
         "eBay"
       ],
       "rank": 10,
-      "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=2022%20Apple%20M2%20MacBook%20Air%2013.6%22%208GB/256GB%20SSD%20%28Silver%29%20A2681%20-%20w/Year%20Warranty&SortType=total_tranSqfm_desc",
+      "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=2023%20Apple%20M2%20Max%20MacBook%20Pro%2016.2%22%2032GB/1TB%20SSD%20-%20%28Space%20Gray%29%20A2780%20w/Warranty&SortType=total_tranSqfm_desc",
       "is_dropship": false
     },
     {
@@ -317,6 +317,24 @@
       "is_dropship": false
     },
     {
+      "id": "ebay_trending_11",
+      "name": "2022 Apple iPad Pro 6 256GB WiFi/Cellular 12.9\" - (Space Gray) A2764 w/Warranty",
+      "price": "$520.24See all trending deals",
+      "image": "https://ir.ebaystatic.com/pictures/aw/pics/s_1x2.gif",
+      "url": "https://www.ebay.com/itm/376730683299?_trkparms=5373%3A0%7C5374%3AFeatured",
+      "source": "eBay",
+      "category": "Trending",
+      "position": 12,
+      "rank_change": "",
+      "score": 48,
+      "sources": [
+        "eBay"
+      ],
+      "rank": 17,
+      "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=2022%20Apple%20iPad%20Pro%206%20256GB%20WiFi/Cellular%2012.9%22%20-%20%28Space%20Gray%29%20A2764%20w/Warranty&SortType=total_tranSqfm_desc",
+      "is_dropship": false
+    },
+    {
       "id": "ebay_home_&_garden_33",
       "name": "EcoFlow 298Wh Plug-in Battery for GLACIER Refrigerator, Used",
       "price": "$119.00See all trending deals",
@@ -330,7 +348,7 @@
       "sources": [
         "eBay"
       ],
-      "rank": 17,
+      "rank": 18,
       "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=EcoFlow%20298Wh%20Plug-in%20Battery%20for%20GLACIER%20Refrigerator%2C%20Used&SortType=total_tranSqfm_desc",
       "is_dropship": false
     },
@@ -348,7 +366,7 @@
       "sources": [
         "eBay"
       ],
-      "rank": 18,
+      "rank": 19,
       "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=Light%20Blue%20by%20Dolce%20%26%20Gabbana%20for%20women%20EDT%200.84%20oz%20New%20in%20Box&SortType=total_tranSqfm_desc",
       "is_dropship": false
     },
@@ -366,7 +384,7 @@
       "sources": [
         "eBay"
       ],
-      "rank": 19,
+      "rank": 20,
       "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=EcoFlow%20Wave%203%20Portable%20Air%20Conditioner%20%26%20Wave%203%20Add-On%20Battery%20for%20Camping/RV&SortType=total_tranSqfm_desc",
       "is_dropship": false
     },
@@ -384,7 +402,7 @@
       "sources": [
         "eBay"
       ],
-      "rank": 20,
+      "rank": 21,
       "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=Bottega%20Veneta%20Nappa%20Leather%20Bucket%20Bag&SortType=total_tranSqfm_desc",
       "is_dropship": false
     },
@@ -402,7 +420,7 @@
       "sources": [
         "eBay"
       ],
-      "rank": 21,
+      "rank": 22,
       "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=EcoFlow%20400W%20Solar%20Panel%20Kit%20Self-supporting%20Waterproof%20Certified%20Refurbished&SortType=total_tranSqfm_desc",
       "is_dropship": false
     },
@@ -420,44 +438,8 @@
       "sources": [
         "eBay"
       ],
-      "rank": 22,
-      "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=Men%27s%20Nike%20Athletic%20Gym%20Club%20Muscle%20Sweat%20Shorts%20Joggers%20New%20With%20Tags&SortType=total_tranSqfm_desc",
-      "is_dropship": false
-    },
-    {
-      "id": "ebay_trending_12",
-      "name": "2022 Apple iPad Pro 6 256GB WiFi/Cellular 12.9\" - (Space Gray) A2764 w/Warranty",
-      "price": "$520.24See all trending deals",
-      "image": "https://ir.ebaystatic.com/pictures/aw/pics/s_1x2.gif",
-      "url": "https://www.ebay.com/itm/376730683299?_trkparms=5373%3A0%7C5374%3AFeatured",
-      "source": "eBay",
-      "category": "Trending",
-      "position": 13,
-      "rank_change": "",
-      "score": 36,
-      "sources": [
-        "eBay"
-      ],
       "rank": 23,
-      "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=2022%20Apple%20iPad%20Pro%206%20256GB%20WiFi/Cellular%2012.9%22%20-%20%28Space%20Gray%29%20A2764%20w/Warranty&SortType=total_tranSqfm_desc",
-      "is_dropship": false
-    },
-    {
-      "id": "ebay_trending_13",
-      "name": "2023 Apple M2 Max MacBook Pro 16.2\" 32GB/1TB SSD - (Space Gray) A2780 w/Warranty",
-      "price": "$1,610.22See all trending deals",
-      "image": "https://ir.ebaystatic.com/pictures/aw/pics/s_1x2.gif",
-      "url": "https://www.ebay.com/itm/147103056166?_trkparms=5373%3A0%7C5374%3AFeatured",
-      "source": "eBay",
-      "category": "Trending",
-      "position": 14,
-      "rank_change": "",
-      "score": 36,
-      "sources": [
-        "eBay"
-      ],
-      "rank": 24,
-      "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=2023%20Apple%20M2%20Max%20MacBook%20Pro%2016.2%22%2032GB/1TB%20SSD%20-%20%28Space%20Gray%29%20A2780%20w/Warranty&SortType=total_tranSqfm_desc",
+      "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=Men%27s%20Nike%20Athletic%20Gym%20Club%20Muscle%20Sweat%20Shorts%20Joggers%20New%20With%20Tags&SortType=total_tranSqfm_desc",
       "is_dropship": false
     },
     {
@@ -474,7 +456,7 @@
       "sources": [
         "eBay"
       ],
-      "rank": 25,
+      "rank": 24,
       "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=Nike%20Women%27s%20Sportswear%20Bonded%20Half-Sleeve%20Top%20Black%20867689-010&SortType=total_tranSqfm_desc",
       "is_dropship": false
     },
@@ -492,7 +474,7 @@
       "sources": [
         "eBay"
       ],
-      "rank": 26,
+      "rank": 25,
       "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=Citizen%20Men%27s%20Sapphire%20Crystal%20Solar%20Eco-Drive%20Beige%20Watch%2038%20MM%20AR3123-00X&SortType=total_tranSqfm_desc",
       "is_dropship": false
     },
@@ -510,7 +492,7 @@
       "sources": [
         "eBay"
       ],
-      "rank": 27,
+      "rank": 26,
       "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=EcoFlow%20800W%20Alternator%20Charger%20with%20Power%20Station%20Certified%20Refurbished&SortType=total_tranSqfm_desc",
       "is_dropship": false
     },
@@ -528,7 +510,7 @@
       "sources": [
         "eBay"
       ],
-      "rank": 28,
+      "rank": 27,
       "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=Clarks%20Mens%20Gessler%20Step%20Brown%20Leather%20Casual%20Loafer%20Shoes&SortType=total_tranSqfm_desc",
       "is_dropship": false
     },
@@ -546,7 +528,7 @@
       "sources": [
         "eBay"
       ],
-      "rank": 29,
+      "rank": 28,
       "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=EcoFlow%20DELTA%20Pro%203600Wh%20Generator%2B2x220W%20Solar%20Panel%20Kit%20Certified%20Refurbished&SortType=total_tranSqfm_desc",
       "is_dropship": false
     },
@@ -564,7 +546,7 @@
       "sources": [
         "eBay"
       ],
-      "rank": 30,
+      "rank": 29,
       "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=Adidas%20Men%27s%20Shorts%20French%20Terry%203-Stripe%20Adicolor%20Cotton%20Gym%20Athletic%20Shorts&SortType=total_tranSqfm_desc",
       "is_dropship": false
     },
@@ -582,7 +564,7 @@
       "sources": [
         "eBay"
       ],
-      "rank": 31,
+      "rank": 30,
       "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=EcoFlow%20SG4000%20DC%20Fast%20Charging%20Dual%20Fuel%20Smart%20Generator%20for%20DELTA%20Pro%20series&SortType=total_tranSqfm_desc",
       "is_dropship": false
     },
@@ -600,7 +582,7 @@
       "sources": [
         "eBay"
       ],
-      "rank": 32,
+      "rank": 31,
       "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=Aston%20Martin%20Formula%201%20Mens%20%20Black%2040mm%20Strap%20Fashion%20Watch&SortType=total_tranSqfm_desc",
       "is_dropship": false
     },
@@ -618,8 +600,26 @@
       "sources": [
         "eBay"
       ],
-      "rank": 33,
+      "rank": 32,
       "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=CARTIER%2018k%20White%20Gold%20Round%20Diamond%20Stella%20Band%20Ring%200.25CT%20Size%205.75%20Euro%2051&SortType=total_tranSqfm_desc",
+      "is_dropship": false
+    },
+    {
+      "id": "ebay_trending_14",
+      "name": "2021 Apple iPad Pro 5 12.9\" 90%+ Battery 128GB Unlocked (Gray) A2379 w/Warranty",
+      "price": "$568.81See all trending deals",
+      "image": "https://ir.ebaystatic.com/pictures/aw/pics/s_1x2.gif",
+      "url": "https://www.ebay.com/itm/147090599277?_trkparms=5373%3A0%7C5374%3AFeatured",
+      "source": "eBay",
+      "category": "Trending",
+      "position": 15,
+      "rank_change": "",
+      "score": 12,
+      "sources": [
+        "eBay"
+      ],
+      "rank": 33,
+      "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=2021%20Apple%20iPad%20Pro%205%2012.9%22%2090%25%2B%20Battery%20128GB%20Unlocked%20%28Gray%29%20A2379%20w/Warranty&SortType=total_tranSqfm_desc",
       "is_dropship": false
     },
     {
