@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-02T08:10:32Z",
-  "total_products": 27,
+  "last_updated": "2026-08-02T18:56:21Z",
+  "total_products": 28,
   "sources": {
     "amazon": {
       "status": "success",
@@ -29,21 +29,21 @@
   },
   "products": [
     {
-      "id": "ebay_trending_7",
-      "name": "adidas men VL Court 3.0 Shoes",
-      "price": "$27.00See all trending deals",
-      "image": "https://ir.ebaystatic.com/pictures/aw/pics/s_1x2.gif",
-      "url": "https://www.ebay.com/itm/157751149633?_trkparms=5373%3A0%7C5374%3AFeatured",
+      "id": "ebay_trending_5",
+      "name": "adidas men GRAND COURT 2.0 SHOES",
+      "price": "$24.00See all trending deals",
+      "image": "https://i.ebayimg.com/images/g/C4cAAeSwiBtqYOtT/s-l300.jpg",
+      "url": "https://www.ebay.com/itm/156879751918?_trkparms=5373%3A0%7C5374%3AFeatured",
       "source": "eBay",
       "category": "Trending",
-      "position": 8,
+      "position": 6,
       "rank_change": "",
-      "score": 344,
+      "score": 368,
       "sources": [
         "eBay"
       ],
       "rank": 1,
-      "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=adidas%20men%20VL%20Court%203.0%20Shoes&SortType=total_tranSqfm_desc",
+      "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=adidas%20men%20GRAND%20COURT%202.0%20SHOES&SortType=total_tranSqfm_desc",
       "is_dropship": false
     },
     {
@@ -65,6 +65,24 @@
       "is_dropship": false
     },
     {
+      "id": "ebay_trending_2",
+      "name": "adidas men Ultraboost 5X Shoes",
+      "price": "$80.00See all trending deals",
+      "image": "https://i.ebayimg.com/images/g/KBoAAeSwiBtqb2un/s-l300.jpg",
+      "url": "https://www.ebay.com/itm/157858848208?_trkparms=5373%3A0%7C5374%3AFeatured",
+      "source": "eBay",
+      "category": "Trending",
+      "position": 3,
+      "rank_change": "",
+      "score": 208,
+      "sources": [
+        "eBay"
+      ],
+      "rank": 3,
+      "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=adidas%20men%20Ultraboost%205X%20Shoes&SortType=total_tranSqfm_desc",
+      "is_dropship": false
+    },
+    {
       "id": "ebay_trending_0",
       "name": "Samsung Galaxy S25 128GB S931U Unlocked - Excellent",
       "price": "$435.99",
@@ -74,43 +92,25 @@
       "category": "Trending",
       "position": 1,
       "rank_change": "",
-      "score": 216,
-      "sources": [
-        "eBay"
-      ],
-      "rank": 3,
-      "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=Samsung%20Galaxy%20S25%20128GB%20S931U%20Unlocked%20-%20Excellent&SortType=total_tranSqfm_desc",
-      "is_dropship": false
-    },
-    {
-      "id": "ebay_trending_2",
-      "name": "adidas men Ultraboost 5X Shoes",
-      "price": "$80.00See all trending deals",
-      "image": "https://i.ebayimg.com/images/g/ly0AAeSwZB9qbtBn/s-l300.jpg",
-      "url": "https://www.ebay.com/itm/157858848208?_trkparms=5373%3A0%7C5374%3AFeatured",
-      "source": "eBay",
-      "category": "Trending",
-      "position": 3,
-      "rank_change": "",
-      "score": 212,
+      "score": 204,
       "sources": [
         "eBay"
       ],
       "rank": 4,
-      "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=adidas%20men%20Ultraboost%205X%20Shoes&SortType=total_tranSqfm_desc",
+      "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=Samsung%20Galaxy%20S25%20128GB%20S931U%20Unlocked%20-%20Excellent&SortType=total_tranSqfm_desc",
       "is_dropship": false
     },
     {
-      "id": "ebay_trending_4",
+      "id": "ebay_trending_3",
       "name": "adidas men X_PLR Path Shoes",
       "price": "$29.00See all trending deals",
       "image": "https://i.ebayimg.com/images/g/IK0AAeSwRo9qailv/s-l300.jpg",
       "url": "https://www.ebay.com/itm/157894702613?_trkparms=5373%3A0%7C5374%3AFeatured",
       "source": "eBay",
       "category": "Trending",
-      "position": 5,
+      "position": 4,
       "rank_change": "",
-      "score": 212,
+      "score": 192,
       "sources": [
         "eBay"
       ],
@@ -119,75 +119,111 @@
       "is_dropship": false
     },
     {
-      "id": "ebay_trending_6",
+      "id": "ebay_trending_4",
+      "name": "adidas men Axis Knit Training Shorts",
+      "price": "$15.00See all trending deals",
+      "image": "https://i.ebayimg.com/images/g/kTsAAeSwQiBp1Zde/s-l300.jpg",
+      "url": "https://www.ebay.com/itm/157817770041?_trkparms=5373%3A0%7C5374%3AFeatured",
+      "source": "eBay",
+      "category": "Trending",
+      "position": 5,
+      "rank_change": "",
+      "score": 176,
+      "sources": [
+        "eBay"
+      ],
+      "rank": 6,
+      "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=adidas%20men%20Axis%20Knit%20Training%20Shorts&SortType=total_tranSqfm_desc",
+      "is_dropship": false
+    },
+    {
+      "id": "ebay_trending_7",
+      "name": "adidas men Train Essentials Feelready Training Tee",
+      "price": "$9.00See all trending deals",
+      "image": "https://ir.ebaystatic.com/pictures/aw/pics/s_1x2.gif",
+      "url": "https://www.ebay.com/itm/157299757552?_trkparms=5373%3A0%7C5374%3AFeatured",
+      "source": "eBay",
+      "category": "Trending",
+      "position": 8,
+      "rank_change": "",
+      "score": 128,
+      "sources": [
+        "eBay"
+      ],
+      "rank": 7,
+      "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=adidas%20men%20Train%20Essentials%20Feelready%20Training%20Tee&SortType=total_tranSqfm_desc",
+      "is_dropship": false
+    },
+    {
+      "id": "ebay_trending_9",
+      "name": "adidas men Daily 4.0 Shoes",
+      "price": "$30.00See all trending deals",
+      "image": "https://ir.ebaystatic.com/pictures/aw/pics/s_1x2.gif",
+      "url": "https://www.ebay.com/itm/157817741627?_trkparms=5373%3A0%7C5374%3AFeatured",
+      "source": "eBay",
+      "category": "Trending",
+      "position": 10,
+      "rank_change": "",
+      "score": 128,
+      "sources": [
+        "eBay"
+      ],
+      "rank": 8,
+      "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=adidas%20men%20Daily%204.0%20Shoes&SortType=total_tranSqfm_desc",
+      "is_dropship": false
+    },
+    {
+      "id": "ebay_trending_8",
+      "name": "Creality PLA Filament 1.75mm 3D Printer Filament CR-Silk Printing Filament 1kg",
+      "price": "$14.99See all trending deals",
+      "image": "https://ir.ebaystatic.com/pictures/aw/pics/s_1x2.gif",
+      "url": "https://www.ebay.com/itm/354993427404?_trkparms=5373%3A0%7C5374%3AFeatured",
+      "source": "eBay",
+      "category": "Trending",
+      "position": 9,
+      "rank_change": "",
+      "score": 84,
+      "sources": [
+        "eBay"
+      ],
+      "rank": 9,
+      "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=Creality%20PLA%20Filament%201.75mm%203D%20Printer%20Filament%20CR-Silk%20Printing%20Filament%201kg&SortType=total_tranSqfm_desc",
+      "is_dropship": false
+    },
+    {
+      "id": "ebay_trending_11",
       "name": "adidas kids Lite Racer Adapt 7.0 Shoes Kids",
       "price": "$22.00See all trending deals",
       "image": "https://ir.ebaystatic.com/pictures/aw/pics/s_1x2.gif",
       "url": "https://www.ebay.com/itm/157079206637?_trkparms=5373%3A0%7C5374%3AFeatured",
       "source": "eBay",
       "category": "Trending",
-      "position": 7,
+      "position": 12,
       "rank_change": "",
-      "score": 152,
+      "score": 72,
       "sources": [
         "eBay"
       ],
-      "rank": 6,
+      "rank": 10,
       "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=adidas%20kids%20Lite%20Racer%20Adapt%207.0%20Shoes%20Kids&SortType=total_tranSqfm_desc",
       "is_dropship": false
     },
     {
-      "id": "ebay_trending_3",
+      "id": "ebay_trending_10",
       "name": "【Buy 6 Get 4 Free,Add 10】ELEGOO PLA/PLA+/Rapid PETG/ASA 3D Printer Filament 1KG",
       "price": "$14.99See all trending deals",
-      "image": "https://i.ebayimg.com/images/g/S6EAAOSwrWhn3TL2/s-l300.jpg",
+      "image": "https://ir.ebaystatic.com/pictures/aw/pics/s_1x2.gif",
       "url": "https://www.ebay.com/itm/386951323647?_trkparms=5373%3A0%7C5374%3AFeatured",
       "source": "eBay",
       "category": "Trending",
-      "position": 4,
+      "position": 11,
       "rank_change": "",
-      "score": 144,
+      "score": 60,
       "sources": [
         "eBay"
       ],
-      "rank": 7,
+      "rank": 11,
       "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=%E3%80%90Buy%206%20Get%204%20Free%2CAdd%2010%E3%80%91ELEGOO%20PLA/PLA%2B/Rapid%20PETG/ASA%203D%20Printer%20Filament%201KG&SortType=total_tranSqfm_desc",
-      "is_dropship": false
-    },
-    {
-      "id": "ebay_trending_5",
-      "name": "Creality PLA Filament 1.75mm 3D Printer Filament CR-Silk Printing Filament 1kg",
-      "price": "$14.99See all trending deals",
-      "image": "https://i.ebayimg.com/images/g/d-AAAOSwsGhljn9c/s-l300.jpg",
-      "url": "https://www.ebay.com/itm/354993427404?_trkparms=5373%3A0%7C5374%3AFeatured",
-      "source": "eBay",
-      "category": "Trending",
-      "position": 6,
-      "rank_change": "",
-      "score": 120,
-      "sources": [
-        "eBay"
-      ],
-      "rank": 8,
-      "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=Creality%20PLA%20Filament%201.75mm%203D%20Printer%20Filament%20CR-Silk%20Printing%20Filament%201kg&SortType=total_tranSqfm_desc",
-      "is_dropship": false
-    },
-    {
-      "id": "ebay_trending_9",
-      "name": "adidas kids Duramo SL Shoes Kids",
-      "price": "$28.00See all trending deals",
-      "image": "https://ir.ebaystatic.com/pictures/aw/pics/s_1x2.gif",
-      "url": "https://www.ebay.com/itm/157977221652?_trkparms=5373%3A0%7C5374%3AFeatured",
-      "source": "eBay",
-      "category": "Trending",
-      "position": 10,
-      "rank_change": "",
-      "score": 104,
-      "sources": [
-        "eBay"
-      ],
-      "rank": 9,
-      "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=adidas%20kids%20Duramo%20SL%20Shoes%20Kids&SortType=total_tranSqfm_desc",
       "is_dropship": false
     },
     {
@@ -200,30 +236,12 @@
       "category": "Home & Garden",
       "position": 31,
       "rank_change": "",
-      "score": 92,
+      "score": 60,
       "sources": [
         "eBay"
       ],
-      "rank": 10,
+      "rank": 12,
       "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=Dyson%20V15%20Detect%20Total%20Clean%20Extra%20%7C%20Yellow/Nickel%20%7C%20Refurbished&SortType=total_tranSqfm_desc",
-      "is_dropship": false
-    },
-    {
-      "id": "ebay_trending_11",
-      "name": "adidas men Essentials French Terry 3-Stripes Shorts",
-      "price": "$16.00See all trending deals",
-      "image": "https://ir.ebaystatic.com/pictures/aw/pics/s_1x2.gif",
-      "url": "https://www.ebay.com/itm/157226220753?_trkparms=5373%3A0%7C5374%3AFeatured",
-      "source": "eBay",
-      "category": "Trending",
-      "position": 12,
-      "rank_change": "",
-      "score": 72,
-      "sources": [
-        "eBay"
-      ],
-      "rank": 11,
-      "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=adidas%20men%20Essentials%20French%20Terry%203-Stripes%20Shorts&SortType=total_tranSqfm_desc",
       "is_dropship": false
     },
     {
@@ -240,16 +258,16 @@
       "sources": [
         "eBay"
       ],
-      "rank": 12,
+      "rank": 13,
       "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=Roborock%20Qrevo%20Pro%20Robot%20Vacuum%2C7000Pa%2CHot%20Water%20Mop%20Wahshing%20-%20Certified%20Refurb&SortType=total_tranSqfm_desc",
       "is_dropship": false
     },
     {
       "id": "ebay_home_&_garden_32",
-      "name": "Hisense 8,000 BTU DOE Smart Portable Air Conditioner Dual Hose w/ Inverter",
-      "price": "$199.99See all trending deals",
-      "image": "https://i.ebayimg.com/images/g/0zAAAeSwOKhqXlQw/s-l300.jpg",
-      "url": "https://www.ebay.com/itm/365622990160?_trkparms=5373%3A5000006500%7C5374%3AHome+%26+Garden%7C5079%3A5000006500",
+      "name": "BLUETTI Elite 100 V2 1024Wh 1800W Portable Power Station Certified Refurbished",
+      "price": "$448.75See all trending deals",
+      "image": "https://i.ebayimg.com/images/g/rNgAAeSwVktqXegb/s-l300.jpg",
+      "url": "https://www.ebay.com/itm/377025032508?_trkparms=5373%3A5000006500%7C5374%3AHome+%26+Garden%7C5079%3A5000006500",
       "source": "eBay",
       "category": "Home & Garden",
       "position": 33,
@@ -258,16 +276,16 @@
       "sources": [
         "eBay"
       ],
-      "rank": 13,
-      "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=Hisense%208%2C000%20BTU%20DOE%20Smart%20Portable%20Air%20Conditioner%20Dual%20Hose%20w/%20Inverter&SortType=total_tranSqfm_desc",
+      "rank": 14,
+      "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=BLUETTI%20Elite%20100%20V2%201024Wh%201800W%20Portable%20Power%20Station%20Certified%20Refurbished&SortType=total_tranSqfm_desc",
       "is_dropship": false
     },
     {
       "id": "ebay_home_&_garden_33",
-      "name": "GE Profile Opal 2.0 Ultra Nugget Ice Maker with Scale Inhibiting Filter",
-      "price": "$269.00See all trending deals",
-      "image": "https://i.ebayimg.com/images/g/GqUAAeSwHg9qY~s0/s-l300.jpg",
-      "url": "https://www.ebay.com/itm/336613547580?_trkparms=5373%3A5000006500%7C5374%3AHome+%26+Garden%7C5079%3A5000006500",
+      "name": "BLUETTI Elite 30 V2 288Wh Portable Power Station Generator for Road Trip",
+      "price": "$211.25See all trending deals",
+      "image": "https://i.ebayimg.com/images/g/afsAAeSwDB5qXejN/s-l300.jpg",
+      "url": "https://www.ebay.com/itm/376879962823?_trkparms=5373%3A5000006500%7C5374%3AHome+%26+Garden%7C5079%3A5000006500",
       "source": "eBay",
       "category": "Home & Garden",
       "position": 34,
@@ -276,34 +294,16 @@
       "sources": [
         "eBay"
       ],
-      "rank": 14,
-      "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=GE%20Profile%20Opal%202.0%20Ultra%20Nugget%20Ice%20Maker%20with%20Scale%20Inhibiting%20Filter&SortType=total_tranSqfm_desc",
-      "is_dropship": false
-    },
-    {
-      "id": "ebay_home_&_garden_35",
-      "name": "iRobot Roomba j7+ Self-Emptying Vacuum Cleaning Robot - Certified Refurbished!",
-      "price": "$179.99See all trending deals",
-      "image": "https://i.ebayimg.com/images/g/sdgAAOSwb~1kcNkq/s-l300.jpg",
-      "url": "https://www.ebay.com/itm/385640129467?_trkparms=5373%3A5000006500%7C5374%3AHome+%26+Garden%7C5079%3A5000006500",
-      "source": "eBay",
-      "category": "Home & Garden",
-      "position": 36,
-      "rank_change": "",
-      "score": 48,
-      "sources": [
-        "eBay"
-      ],
       "rank": 15,
-      "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=iRobot%20Roomba%20j7%2B%20Self-Emptying%20Vacuum%20Cleaning%20Robot%20-%20Certified%20Refurbished%21&SortType=total_tranSqfm_desc",
+      "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=BLUETTI%20Elite%2030%20V2%20288Wh%20Portable%20Power%20Station%20Generator%20for%20Road%20Trip&SortType=total_tranSqfm_desc",
       "is_dropship": false
     },
     {
       "id": "ebay_home_&_garden_34",
-      "name": "Wiring Plate for Google Nest Thermostat E  E360129 A0063 Base (1-Year Warranty)",
-      "price": "$19.99See all trending deals",
-      "image": "https://i.ebayimg.com/images/g/B~EAAOSwk7pkwrxa/s-l300.jpg",
-      "url": "https://www.ebay.com/itm/175893166587?_trkparms=5373%3A5000006500%7C5374%3AHome+%26+Garden%7C5079%3A5000006500",
+      "name": "5-Tier Heavy Duty Metal Shelving Storage Adjustable Garage Shelves Utility Rack",
+      "price": "$37.99See all trending deals",
+      "image": "https://i.ebayimg.com/images/g/UO0AAeSwgkRqJ-~~/s-l300.jpg",
+      "url": "https://www.ebay.com/itm/236735287518?_trkparms=5373%3A5000006500%7C5374%3AHome+%26+Garden%7C5079%3A5000006500",
       "source": "eBay",
       "category": "Home & Garden",
       "position": 35,
@@ -313,15 +313,33 @@
         "eBay"
       ],
       "rank": 16,
-      "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=Wiring%20Plate%20for%20Google%20Nest%20Thermostat%20E%20%20E360129%20A0063%20Base%20%281-Year%20Warranty%29&SortType=total_tranSqfm_desc",
+      "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=5-Tier%20Heavy%20Duty%20Metal%20Shelving%20Storage%20Adjustable%20Garage%20Shelves%20Utility%20Rack&SortType=total_tranSqfm_desc",
+      "is_dropship": false
+    },
+    {
+      "id": "ebay_home_&_garden_35",
+      "name": "36000 BTU Single Zone Wall Mount 230V R32 Ductless Mini Split AC Heat Pump",
+      "price": "$1,854.00See all trending deals",
+      "image": "https://i.ebayimg.com/images/g/OqYAAOSwYMdnv29I/s-l300.jpg",
+      "url": "https://www.ebay.com/itm/186995443180?_trkparms=5373%3A5000006500%7C5374%3AHome+%26+Garden%7C5079%3A5000006500",
+      "source": "eBay",
+      "category": "Home & Garden",
+      "position": 36,
+      "rank_change": "",
+      "score": 40,
+      "sources": [
+        "eBay"
+      ],
+      "rank": 17,
+      "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=36000%20BTU%20Single%20Zone%20Wall%20Mount%20230V%20R32%20Ductless%20Mini%20Split%20AC%20Heat%20Pump&SortType=total_tranSqfm_desc",
       "is_dropship": false
     },
     {
       "id": "ebay_home_&_garden_36",
-      "name": "Roborock Saros 10R Robot Vacuum & Mop,22000Pa,Heated Cleaning - Certified Refurb",
-      "price": "$929.99See all trending deals",
+      "name": "2 Pack DEWALT DCB205-2 20V Max XR 5.0Ah Lithium-Ion Battery",
+      "price": "$64.99See all trending deals",
       "image": "https://ir.ebaystatic.com/pictures/aw/pics/s_1x2.gif",
-      "url": "https://www.ebay.com/itm/406877170078?_trkparms=5373%3A5000006500%7C5374%3AHome+%26+Garden%7C5079%3A5000006500",
+      "url": "https://www.ebay.com/itm/137448421535?_trkparms=5373%3A5000006500%7C5374%3AHome+%26+Garden%7C5079%3A5000006500",
       "source": "eBay",
       "category": "Home & Garden",
       "position": 37,
@@ -330,16 +348,34 @@
       "sources": [
         "eBay"
       ],
-      "rank": 17,
-      "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=Roborock%20Saros%2010R%20Robot%20Vacuum%20%26%20Mop%2C22000Pa%2CHeated%20Cleaning%20-%20Certified%20Refurb&SortType=total_tranSqfm_desc",
+      "rank": 18,
+      "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=2%20Pack%20DEWALT%20DCB205-2%2020V%20Max%20XR%205.0Ah%20Lithium-Ion%20Battery&SortType=total_tranSqfm_desc",
+      "is_dropship": false
+    },
+    {
+      "id": "ebay_home_&_garden_37",
+      "name": "Dyson V8 Origin Extra Cordless Vacuum | Blue | Refurbished",
+      "price": "$179.99See all trending deals",
+      "image": "https://ir.ebaystatic.com/pictures/aw/pics/s_1x2.gif",
+      "url": "https://www.ebay.com/itm/277471921016?_trkparms=5373%3A5000006500%7C5374%3AHome+%26+Garden%7C5079%3A5000006500",
+      "source": "eBay",
+      "category": "Home & Garden",
+      "position": 38,
+      "rank_change": "",
+      "score": 32,
+      "sources": [
+        "eBay"
+      ],
+      "rank": 19,
+      "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=Dyson%20V8%20Origin%20Extra%20Cordless%20Vacuum%20%7C%20Blue%20%7C%20Refurbished&SortType=total_tranSqfm_desc",
       "is_dropship": false
     },
     {
       "id": "ebay_home_&_garden_38",
-      "name": "12,000 BTU Ductless Air Conditioner, Heat Pump Mini Split 110V 1 Ton W/kit, WiFi",
-      "price": "$458.16See all trending deals",
+      "name": "Milwaukee 48-11-2450 M12  RedLithium HIGH OUTPUT 5.0Ah XC5.0 Battery Pack",
+      "price": "$65.99See all trending deals",
       "image": "https://ir.ebaystatic.com/pictures/aw/pics/s_1x2.gif",
-      "url": "https://www.ebay.com/itm/352821716902?_trkparms=5373%3A5000006500%7C5374%3AHome+%26+Garden%7C5079%3A5000006500",
+      "url": "https://www.ebay.com/itm/364146263357?_trkparms=5373%3A5000006500%7C5374%3AHome+%26+Garden%7C5079%3A5000006500",
       "source": "eBay",
       "category": "Home & Garden",
       "position": 39,
@@ -348,34 +384,16 @@
       "sources": [
         "eBay"
       ],
-      "rank": 18,
-      "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=12%2C000%20BTU%20Ductless%20Air%20Conditioner%2C%20Heat%20Pump%20Mini%20Split%20110V%201%20Ton%20W/kit%2C%20WiFi&SortType=total_tranSqfm_desc",
-      "is_dropship": false
-    },
-    {
-      "id": "ebay_trending_13",
-      "name": "Skullcandy Dime Evo XT - Black ( Refurbished)",
-      "price": "$16.14See all trending deals",
-      "image": "https://ir.ebaystatic.com/pictures/aw/pics/s_1x2.gif",
-      "url": "https://www.ebay.com/itm/376424803288?_trkparms=5373%3A0%7C5374%3AFeatured",
-      "source": "eBay",
-      "category": "Trending",
-      "position": 14,
-      "rank_change": "",
-      "score": 24,
-      "sources": [
-        "eBay"
-      ],
-      "rank": 19,
-      "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=Skullcandy%20Dime%20Evo%20XT%20-%20Black%20%28%20Refurbished%29&SortType=total_tranSqfm_desc",
+      "rank": 20,
+      "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=Milwaukee%2048-11-2450%20M12%20%20RedLithium%20HIGH%20OUTPUT%205.0Ah%20XC5.0%20Battery%20Pack&SortType=total_tranSqfm_desc",
       "is_dropship": false
     },
     {
       "id": "ebay_home_&_garden_39",
-      "name": "Milwaukee 2953-20 FUEL 18V Li-Ion Brushless Cordless 1/4\" Hex Impact Driver 4GEN",
-      "price": "$110.99See all trending deals",
+      "name": "iRobot Roomba j7+ Self-Emptying Vacuum Cleaning Robot - Certified Refurbished!",
+      "price": "$179.99See all trending deals",
       "image": "https://ir.ebaystatic.com/pictures/aw/pics/s_1x2.gif",
-      "url": "https://www.ebay.com/itm/364029899284?_trkparms=5373%3A5000006500%7C5374%3AHome+%26+Garden%7C5079%3A5000006500",
+      "url": "https://www.ebay.com/itm/385640129467?_trkparms=5373%3A5000006500%7C5374%3AHome+%26+Garden%7C5079%3A5000006500",
       "source": "eBay",
       "category": "Home & Garden",
       "position": 40,
@@ -384,16 +402,16 @@
       "sources": [
         "eBay"
       ],
-      "rank": 20,
-      "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=Milwaukee%202953-20%20FUEL%2018V%20Li-Ion%20Brushless%20Cordless%201/4%22%20Hex%20Impact%20Driver%204GEN&SortType=total_tranSqfm_desc",
+      "rank": 21,
+      "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=iRobot%20Roomba%20j7%2B%20Self-Emptying%20Vacuum%20Cleaning%20Robot%20-%20Certified%20Refurbished%21&SortType=total_tranSqfm_desc",
       "is_dropship": false
     },
     {
       "id": "ebay_home_&_garden_40",
-      "name": "EcoFlow DELTA Pro 3 4000Wh LFP Portable Power Station Certified Refurbished",
-      "price": "$1,899.00See all trending deals",
+      "name": "12,000 BTU Ductless Air Conditioner, Heat Pump Mini Split 110V 1 Ton W/kit, WiFi",
+      "price": "$458.16See all trending deals",
       "image": "https://ir.ebaystatic.com/pictures/aw/pics/s_1x2.gif",
-      "url": "https://www.ebay.com/itm/146040463753?_trkparms=5373%3A5000006500%7C5374%3AHome+%26+Garden%7C5079%3A5000006500",
+      "url": "https://www.ebay.com/itm/352821716902?_trkparms=5373%3A5000006500%7C5374%3AHome+%26+Garden%7C5079%3A5000006500",
       "source": "eBay",
       "category": "Home & Garden",
       "position": 41,
@@ -402,16 +420,16 @@
       "sources": [
         "eBay"
       ],
-      "rank": 21,
-      "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=EcoFlow%20DELTA%20Pro%203%204000Wh%20LFP%20Portable%20Power%20Station%20Certified%20Refurbished&SortType=total_tranSqfm_desc",
+      "rank": 22,
+      "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=12%2C000%20BTU%20Ductless%20Air%20Conditioner%2C%20Heat%20Pump%20Mini%20Split%20110V%201%20Ton%20W/kit%2C%20WiFi&SortType=total_tranSqfm_desc",
       "is_dropship": false
     },
     {
       "id": "ebay_home_&_garden_41",
-      "name": "Dyson V8 Origin Extra Cordless Vacuum | Blue | Refurbished",
-      "price": "$179.99See all trending deals",
+      "name": "Milwaukee 2904-20 M18 FUEL 1/2\" Hammer Drill/Driver (Tool only)",
+      "price": "$139.99See all trending deals",
       "image": "https://ir.ebaystatic.com/pictures/aw/pics/s_1x2.gif",
-      "url": "https://www.ebay.com/itm/277471921016?_trkparms=5373%3A5000006500%7C5374%3AHome+%26+Garden%7C5079%3A5000006500",
+      "url": "https://www.ebay.com/itm/365749807558?_trkparms=5373%3A5000006500%7C5374%3AHome+%26+Garden%7C5079%3A5000006500",
       "source": "eBay",
       "category": "Home & Garden",
       "position": 42,
@@ -420,34 +438,16 @@
       "sources": [
         "eBay"
       ],
-      "rank": 22,
-      "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=Dyson%20V8%20Origin%20Extra%20Cordless%20Vacuum%20%7C%20Blue%20%7C%20Refurbished&SortType=total_tranSqfm_desc",
-      "is_dropship": false
-    },
-    {
-      "id": "ebay_fashion_56",
-      "name": "adidas men Train Essentials Feelready Training Tee",
-      "price": "$9.00See all trending deals",
-      "image": "https://ir.ebaystatic.com/pictures/aw/pics/s_1x2.gif",
-      "url": "https://www.ebay.com/itm/157299757552?_trkparms=5373%3A5000006436%7C5374%3AFashion%7C5079%3A5000006436",
-      "source": "eBay",
-      "category": "Fashion",
-      "position": 57,
-      "rank_change": "",
-      "score": 16,
-      "sources": [
-        "eBay"
-      ],
       "rank": 23,
-      "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=adidas%20men%20Train%20Essentials%20Feelready%20Training%20Tee&SortType=total_tranSqfm_desc",
+      "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=Milwaukee%202904-20%20M18%20FUEL%201/2%22%20Hammer%20Drill/Driver%20%28Tool%20only%29&SortType=total_tranSqfm_desc",
       "is_dropship": false
     },
     {
       "id": "ebay_home_&_garden_42",
-      "name": "2 PCS 18V Milwaukee 48-11-1860 6.0 AH Batteries M18 XC18 48-11-1860 New In Pack",
-      "price": "$100.85See all trending deals",
+      "name": "Hisense 8,000 BTU DOE Smart Portable Air Conditioner Dual Hose w/ Inverter",
+      "price": "$199.99See all trending deals",
       "image": "https://ir.ebaystatic.com/pictures/aw/pics/s_1x2.gif",
-      "url": "https://www.ebay.com/itm/318510331861?_trkparms=5373%3A5000006500%7C5374%3AHome+%26+Garden%7C5079%3A5000006500",
+      "url": "https://www.ebay.com/itm/365622990160?_trkparms=5373%3A5000006500%7C5374%3AHome+%26+Garden%7C5079%3A5000006500",
       "source": "eBay",
       "category": "Home & Garden",
       "position": 43,
@@ -457,15 +457,15 @@
         "eBay"
       ],
       "rank": 24,
-      "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=2%20PCS%2018V%20Milwaukee%2048-11-1860%206.0%20AH%20Batteries%20M18%20XC18%2048-11-1860%20New%20In%20Pack&SortType=total_tranSqfm_desc",
+      "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=Hisense%208%2C000%20BTU%20DOE%20Smart%20Portable%20Air%20Conditioner%20Dual%20Hose%20w/%20Inverter&SortType=total_tranSqfm_desc",
       "is_dropship": false
     },
     {
       "id": "ebay_fashion_57",
-      "name": "adidas women Adizero EVO SL Shoes",
-      "price": "$61.00See all trending deals",
+      "name": "Crocs Adult Baya II Slide Sandals",
+      "price": "$19.99See all trending deals",
       "image": "https://ir.ebaystatic.com/pictures/aw/pics/s_1x2.gif",
-      "url": "https://www.ebay.com/itm/158070397228?_trkparms=5373%3A5000006436%7C5374%3AFashion%7C5079%3A5000006436",
+      "url": "https://www.ebay.com/itm/145128501815?_trkparms=5373%3A5000006436%7C5374%3AFashion%7C5079%3A5000006436",
       "source": "eBay",
       "category": "Fashion",
       "position": 58,
@@ -475,33 +475,33 @@
         "eBay"
       ],
       "rank": 25,
-      "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=adidas%20women%20Adizero%20EVO%20SL%20Shoes&SortType=total_tranSqfm_desc",
+      "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=Crocs%20Adult%20Baya%20II%20Slide%20Sandals&SortType=total_tranSqfm_desc",
       "is_dropship": false
     },
     {
-      "id": "ebay_fashion_58",
-      "name": "adidas kids Barreda Decode Shoes Kids",
-      "price": "$25.00See all trending deals",
+      "id": "ebay_home_&_garden_43",
+      "name": "Termidor SC 20 oz. Termite Ant Control BASF Termiticide",
+      "price": "$85.95See all trending deals",
       "image": "https://ir.ebaystatic.com/pictures/aw/pics/s_1x2.gif",
-      "url": "https://www.ebay.com/itm/157602686068?_trkparms=5373%3A5000006436%7C5374%3AFashion%7C5079%3A5000006436",
+      "url": "https://www.ebay.com/itm/325269986906?_trkparms=5373%3A5000006500%7C5374%3AHome+%26+Garden%7C5079%3A5000006500",
       "source": "eBay",
-      "category": "Fashion",
-      "position": 59,
+      "category": "Home & Garden",
+      "position": 44,
       "rank_change": "",
       "score": 8,
       "sources": [
         "eBay"
       ],
       "rank": 26,
-      "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=adidas%20kids%20Barreda%20Decode%20Shoes%20Kids&SortType=total_tranSqfm_desc",
+      "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=Termidor%20SC%2020%20oz.%20Termite%20Ant%20Control%20BASF%20Termiticide&SortType=total_tranSqfm_desc",
       "is_dropship": false
     },
     {
       "id": "ebay_home_&_garden_44",
-      "name": "Micro-Air EasyStart Flex Residential Soft Starter",
-      "price": "$363.72See all trending deals",
+      "name": "EcoFlow DELTA Pro 3 4000Wh LFP Portable Power Station Certified Refurbished",
+      "price": "$1,899.00See all trending deals",
       "image": "https://ir.ebaystatic.com/pictures/aw/pics/s_1x2.gif",
-      "url": "https://www.ebay.com/itm/326700544494?_trkparms=5373%3A5000006500%7C5374%3AHome+%26+Garden%7C5079%3A5000006500",
+      "url": "https://www.ebay.com/itm/146040463753?_trkparms=5373%3A5000006500%7C5374%3AHome+%26+Garden%7C5079%3A5000006500",
       "source": "eBay",
       "category": "Home & Garden",
       "position": 45,
@@ -511,7 +511,25 @@
         "eBay"
       ],
       "rank": 27,
-      "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=Micro-Air%20EasyStart%20Flex%20Residential%20Soft%20Starter&SortType=total_tranSqfm_desc",
+      "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=EcoFlow%20DELTA%20Pro%203%204000Wh%20LFP%20Portable%20Power%20Station%20Certified%20Refurbished&SortType=total_tranSqfm_desc",
+      "is_dropship": false
+    },
+    {
+      "id": "ebay_fashion_59",
+      "name": "adidas men Essentials French Terry 3-Stripes Shorts",
+      "price": "$16.00See all trending deals",
+      "image": "https://ir.ebaystatic.com/pictures/aw/pics/s_1x2.gif",
+      "url": "https://www.ebay.com/itm/157226220753?_trkparms=5373%3A5000006436%7C5374%3AFashion%7C5079%3A5000006436",
+      "source": "eBay",
+      "category": "Fashion",
+      "position": 60,
+      "rank_change": "",
+      "score": 4,
+      "sources": [
+        "eBay"
+      ],
+      "rank": 28,
+      "supplier_url": "https://www.aliexpress.com/wholesale?SearchText=adidas%20men%20Essentials%20French%20Terry%203-Stripes%20Shorts&SortType=total_tranSqfm_desc",
       "is_dropship": false
     }
   ]
